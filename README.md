@@ -1,4 +1,4 @@
-Project Description
+Project Description:
 
 AI-Powered Freshdesk Support Assistant using MCP and Claude
 
