@@ -1,6 +1,6 @@
 Project Description:
 
-AI-Powered Freshdesk Support Assistant using MCP and Claude
+AI-Powered Freshdesk Support Assistant using MCP and Claude that tell each and everything about each and every employee details
 
 This project connects Freshdesk with Claude AI through a Model Context Protocol (MCP) server). The MCP server acts as a secure bridge between Freshdesk and Claude, allowing Claude to access and analyze support-ticket information using defined tools and APIs.
 
